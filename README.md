@@ -40,7 +40,7 @@ The smile detection program captures face images from a video feed using OpenCV 
 - `README.md`: This README file provides an overview of the project, including the model description, program functionality, and project files.
 - `requirements.txt`: This file lists all the Python libraries required by the project. Use `pip install -r requirements.txt` to install the dependencies.
 - `Completed Model/`: This folder contains the pre-trained model that is ready for production.
-- 
+  
 ## Getting Started
 
 To run the smile detection program, follow these steps:
