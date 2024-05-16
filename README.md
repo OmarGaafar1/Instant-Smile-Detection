@@ -1,4 +1,6 @@
-![child_result](https://github.com/OmarGaafar1/Instant-Smile-Detection/assets/92587188/42f633bb-7eb0-4bcb-a8c9-d1f8a9e4007f)
+<div style="text-align:center">
+    <img src="https://github.com/OmarGaafar1/Instant-Smile-Detection/assets/92587188/42f633bb-7eb0-4bcb-a8c9-d1f8a9e4007f" alt="child_result">
+</div>
 # Smile Detection Model README
 
 ## Overview
