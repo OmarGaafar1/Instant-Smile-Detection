@@ -33,9 +33,16 @@ The smile detection program captures face images from a video feed using OpenCV 
 
 ## Project Files
 
-- `model.py`: This Python script contains the implementation of the smile detection model, including data preprocessing, model training, evaluation, and saving the trained model.
+- `Convolution Neural Network Classifier.ipynb`: This notebook contains the implementation of the smile detection model, including data preprocessing, model training, evaluation, and saving the trained model.
+- `Main.ipynb`: This notebook contains the main function which starts the video capturing and sends and receives inputs from the model.
+- `data/`: This directory contains the trained data.
 - `README.md`: This README file provides an overview of the project, including the model description, program functionality, and project files.
 - `requirements.txt`: This file lists all the Python libraries required by the project. Use `pip install -r requirements.txt` to install the dependencies.
+- `Completed Model/`: This folder contains the pre-trained model that is ready for production.
+- 
+## Getting Started
+
+To run the smile detection program, follow these steps:
 
 ## Getting Started
 
@@ -43,8 +50,9 @@ To run the smile detection program, follow these steps:
 
 1. Clone the project repository.
 2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Train the smile detection model using the `model.py` script.
-4. Run the smile detection program to capture face images from a video feed and display smile predictions.
+3. Open the `Main.ipynb` notebook and run it to start the video capturing and smile detection process.
+
+
 
 ## Acknowledgements
 
