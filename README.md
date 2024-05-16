@@ -41,9 +41,6 @@ The smile detection program captures face images from a video feed using OpenCV 
 - `requirements.txt`: This file lists all the Python libraries required by the project. Use `pip install -r requirements.txt` to install the dependencies.
 - `Completed Model/`: This folder contains the pre-trained model that is ready for production.
   
-## Getting Started
-
-To run the smile detection program, follow these steps:
 
 ## Getting Started
 
@@ -53,11 +50,4 @@ To run the smile detection program, follow these steps:
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Open the `Main.ipynb` notebook and run it to start the video capturing and smile detection process.
 
-
-
-## Acknowledgements
-
-The smile detection model and program are developed as part of a computer vision project. Special thanks to the TensorFlow and OpenCV communities for their contributions to the libraries used in this project.
-
-For further information or inquiries, please contact [project author's name/email].
 
